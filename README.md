@@ -18,4 +18,11 @@ High-level instruction
 * Increase swap
 * Update grub config
 * Update gnome-shell (make it visible in settings)
-* Update 
+* Update close-lid behaviour
+
+# Japanese Input
+Update the short cut key to Ctrl+\
+This somewhat works with emacs.
+
+# Touchpad scroll speed
+I haven't been able to solve this problem.
