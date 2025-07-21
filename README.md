@@ -26,3 +26,6 @@ This somewhat works with emacs.
 
 # Touchpad scroll speed
 I haven't been able to solve this problem.
+
+# Hiragana mode as Default
+https://knowledge.f5.si/open.knowledge/view/63
